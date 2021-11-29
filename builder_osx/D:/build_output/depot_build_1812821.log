@@ -1,0 +1,118 @@
+[2021-11-23 11:35:50]: Starting build for depot 1812821, content path is "/Users/hydroflame/Downloads/sdk/tools/ContentBuilder/content/", build flags 0x0
+[2021-11-23 11:35:50]: Building file listing for depot 1812821 ...
+[2021-11-23 11:35:50]: Found 105 files for mapping: /Users/hydroflame/Downloads/sdk/tools/ContentBuilder/content * -> .
+[2021-11-23 11:35:50]: Found 105 files (197 MB) for depot 1812821
+[2021-11-23 11:35:51]: Building depot 1812821, no baseline manifest
+[2021-11-23 11:36:47]: Found 279 chunks ( 0 used previously ) for depot 1812821, took 0 minutes, 56 seconds
+[2021-11-23 11:36:47]: Changes to baseline manifest 0 :
+[2021-11-23 11:36:47]: Added  : "bitburner.exe" 133712 kB 
+[2021-11-23 11:36:47]: Added  : "chrome_100_percent.pak" 140 kB 
+[2021-11-23 11:36:47]: Added  : "chrome_200_percent.pak" 204 kB 
+[2021-11-23 11:36:47]: Added  : "d3dcompiler_47.dll" 4419 kB 
+[2021-11-23 11:36:47]: Added  : "ffmpeg.dll" 2636 kB 
+[2021-11-23 11:36:47]: Added  : "icudtl.dat" 9977 kB 
+[2021-11-23 11:36:47]: Added  : "libEGL.dll" 432 kB 
+[2021-11-23 11:36:47]: Added  : "libGLESv2.dll" 7954 kB 
+[2021-11-23 11:36:47]: Added  : "LICENSE" 2 kB 
+[2021-11-23 11:36:47]: Added  : "LICENSES.chromium.html" 5304 kB 
+[2021-11-23 11:36:47]: Added  : "locales" 0 kB ,Flags: 64
+[2021-11-23 11:36:47]: Added  : "locales\am.pak" 166 kB 
+[2021-11-23 11:36:47]: Added  : "locales\ar.pak" 171 kB 
+[2021-11-23 11:36:47]: Added  : "locales\bg.pak" 181 kB 
+[2021-11-23 11:36:47]: Added  : "locales\bn.pak" 236 kB 
+[2021-11-23 11:36:47]: Added  : "locales\ca.pak" 115 kB 
+[2021-11-23 11:36:47]: Added  : "locales\cs.pak" 118 kB 
+[2021-11-23 11:36:47]: Added  : "locales\da.pak" 108 kB 
+[2021-11-23 11:36:47]: Added  : "locales\de.pak" 116 kB 
+[2021-11-23 11:36:47]: Added  : "locales\el.pak" 201 kB 
+[2021-11-23 11:36:47]: Added  : "locales\en-GB.pak" 95 kB 
+[2021-11-23 11:36:47]: Added  : "locales\en-US.pak" 96 kB 
+[2021-11-23 11:36:47]: Added  : "locales\es-419.pak" 113 kB 
+[2021-11-23 11:36:47]: Added  : "locales\es.pak" 115 kB 
+[2021-11-23 11:36:47]: Added  : "locales\et.pak" 104 kB 
+[2021-11-23 11:36:47]: Added  : "locales\fa.pak" 162 kB 
+[2021-11-23 11:36:47]: Added  : "locales\fi.pak" 106 kB 
+[2021-11-23 11:36:47]: Added  : "locales\fil.pak" 118 kB 
+[2021-11-23 11:36:47]: Added  : "locales\fr.pak" 124 kB 
+[2021-11-23 11:36:47]: Added  : "locales\gu.pak" 227 kB 
+[2021-11-23 11:36:47]: Added  : "locales\he.pak" 143 kB 
+[2021-11-23 11:36:47]: Added  : "locales\hi.pak" 235 kB 
+[2021-11-23 11:36:47]: Added  : "locales\hr.pak" 113 kB 
+[2021-11-23 11:36:47]: Added  : "locales\hu.pak" 121 kB 
+[2021-11-23 11:36:47]: Added  : "locales\id.pak" 103 kB 
+[2021-11-23 11:36:47]: Added  : "locales\it.pak" 112 kB 
+[2021-11-23 11:36:47]: Added  : "locales\ja.pak" 136 kB 
+[2021-11-23 11:36:47]: Added  : "locales\kn.pak" 259 kB 
+[2021-11-23 11:36:47]: Added  : "locales\ko.pak" 114 kB 
+[2021-11-23 11:36:47]: Added  : "locales\lt.pak" 123 kB 
+[2021-11-23 11:36:47]: Added  : "locales\lv.pak" 123 kB 
+[2021-11-23 11:36:47]: Added  : "locales\ml.pak" 272 kB 
+[2021-11-23 11:36:47]: Added  : "locales\mr.pak" 223 kB 
+[2021-11-23 11:36:47]: Added  : "locales\ms.pak" 106 kB 
+[2021-11-23 11:36:47]: Added  : "locales\nb.pak" 105 kB 
+[2021-11-23 11:36:47]: Added  : "locales\nl.pak" 108 kB 
+[2021-11-23 11:36:47]: Added  : "locales\pl.pak" 119 kB 
+[2021-11-23 11:36:47]: Added  : "locales\pt-BR.pak" 112 kB 
+[2021-11-23 11:36:47]: Added  : "locales\pt-PT.pak" 113 kB 
+[2021-11-23 11:36:47]: Added  : "locales\ro.pak" 116 kB 
+[2021-11-23 11:36:47]: Added  : "locales\ru.pak" 184 kB 
+[2021-11-23 11:36:47]: Added  : "locales\sk.pak" 120 kB 
+[2021-11-23 11:36:47]: Added  : "locales\sl.pak" 114 kB 
+[2021-11-23 11:36:47]: Added  : "locales\sr.pak" 173 kB 
+[2021-11-23 11:36:47]: Added  : "locales\sv.pak" 105 kB 
+[2021-11-23 11:36:47]: Added  : "locales\sw.pak" 107 kB 
+[2021-11-23 11:36:47]: Added  : "locales\ta.pak" 269 kB 
+[2021-11-23 11:36:47]: Added  : "locales\te.pak" 250 kB 
+[2021-11-23 11:36:47]: Added  : "locales\th.pak" 213 kB 
+[2021-11-23 11:36:47]: Added  : "locales\tr.pak" 110 kB 
+[2021-11-23 11:36:47]: Added  : "locales\uk.pak" 184 kB 
+[2021-11-23 11:36:47]: Added  : "locales\vi.pak" 131 kB 
+[2021-11-23 11:36:47]: Added  : "locales\zh-CN.pak" 97 kB 
+[2021-11-23 11:36:47]: Added  : "locales\zh-TW.pak" 97 kB 
+[2021-11-23 11:36:47]: Added  : "resources" 0 kB ,Flags: 64
+[2021-11-23 11:36:47]: Added  : "resources.pak" 4744 kB 
+[2021-11-23 11:36:47]: Added  : "resources\app" 0 kB ,Flags: 64
+[2021-11-23 11:36:47]: Added  : "resources\app\dist" 0 kB ,Flags: 64
+[2021-11-23 11:36:47]: Added  : "resources\app\dist\android-chrome-192x192.png" 2 kB 
+[2021-11-23 11:36:47]: Added  : "resources\app\dist\android-chrome-512x512.png" 6 kB 
+[2021-11-23 11:36:47]: Added  : "resources\app\dist\apple-touch-icon.png" 4 kB 
+[2021-11-23 11:36:47]: Added  : "resources\app\dist\bitburner.d.ts" 159 kB 
+[2021-11-23 11:36:47]: Added  : "resources\app\dist\browserconfig.xml" 1 kB 
+[2021-11-23 11:36:47]: Added  : "resources\app\dist\engine.bundle.js" 1434 kB 
+[2021-11-23 11:36:47]: Added  : "resources\app\dist\engine.bundle.js.map" 3912 kB 
+[2021-11-23 11:36:47]: Added  : "resources\app\dist\engineStyle.bundle.js" 3 kB 
+[2021-11-23 11:36:47]: Added  : "resources\app\dist\engineStyle.bundle.js.map" 10 kB 
+[2021-11-23 11:36:47]: Added  : "resources\app\dist\engineStyle.css" 132 kB 
+[2021-11-23 11:36:47]: Added  : "resources\app\dist\engineStyle.css.map" 179 kB 
+[2021-11-23 11:36:47]: Added  : "resources\app\dist\favicon-16x16.png" 1 kB 
+[2021-11-23 11:36:47]: Added  : "resources\app\dist\favicon-32x32.png" 1 kB 
+[2021-11-23 11:36:47]: Added  : "resources\app\dist\mstile-70x70.png" 1 kB 
+[2021-11-23 11:36:47]: Added  : "resources\app\dist\safari-pinned-tab.svg" 9 kB 
+[2021-11-23 11:36:47]: Added  : "resources\app\dist\site.webmanifest" 1 kB 
+[2021-11-23 11:36:47]: Added  : "resources\app\dist\vendor.bundle.js" 1311 kB 
+[2021-11-23 11:36:47]: Added  : "resources\app\dist\vendor.bundle.js.map" 5544 kB 
+[2021-11-23 11:36:47]: Added  : "resources\app\dist\vendor.css" 6 kB 
+[2021-11-23 11:36:47]: Added  : "resources\app\dist\vendor.css.map" 8 kB 
+[2021-11-23 11:36:47]: Added  : "resources\app\icon.icns" 21 kB 
+[2021-11-23 11:36:47]: Added  : "resources\app\icon.ico" 16 kB 
+[2021-11-23 11:36:47]: Added  : "resources\app\icon.png" 6 kB 
+[2021-11-23 11:36:47]: Added  : "resources\app\index.html" 3 kB 
+[2021-11-23 11:36:47]: Added  : "resources\app\main.bundle.js" 1610 kB 
+[2021-11-23 11:36:47]: Added  : "resources\app\main.js" 1 kB 
+[2021-11-23 11:36:47]: Added  : "resources\app\package.json" 1 kB 
+[2021-11-23 11:36:47]: Added  : "resources\app\vendor.bundle.js" 1317 kB 
+[2021-11-23 11:36:47]: Added  : "snapshot_blob.bin" 49 kB 
+[2021-11-23 11:36:47]: Added  : "swiftshader" 0 kB ,Flags: 64
+[2021-11-23 11:36:47]: Added  : "swiftshader\libEGL.dll" 446 kB 
+[2021-11-23 11:36:47]: Added  : "swiftshader\libGLESv2.dll" 3107 kB 
+[2021-11-23 11:36:47]: Added  : "v8_context_snapshot.bin" 161 kB 
+[2021-11-23 11:36:47]: Added  : "version" 1 kB 
+[2021-11-23 11:36:47]: Added  : "vk_swiftshader.dll" 4538 kB 
+[2021-11-23 11:36:47]: Added  : "vk_swiftshader_icd.json" 1 kB 
+[2021-11-23 11:36:47]: Added  : "vulkan-1.dll" 712 kB 
+[2021-11-23 11:36:47]: Summary: 105 files added, 0 files changed, 0 files removed
+[2021-11-23 11:36:47]: Syncing local content server at "D:/build_output/" ...
+[2021-11-23 11:36:48]: Local content server sync complete, 279 files checked, 279 files updated.
+[2021-11-23 11:36:49]: Uploading new manifest to 208.64.201.204:80 (handle 474909210107967602, 19092 bytes).
+[2021-11-23 11:36:53]: Writing manifest to local content server...
+[2021-11-23 11:36:53]: Success! New manifestID 4880182525384258704 created and 0 new chunks uploaded.
